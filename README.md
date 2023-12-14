@@ -1,15 +1,19 @@
-### Hi there 👋
+## Intro  
+### <div align="center">Hello, I'm Artem 👋
 
+I'm a Flutter developer with 1+ years of experience! I started programming in 2020 and since then I couldn’t decide for a long time what I wanted to do.  Now I have definitely decided that mobile development is what I want to work with in the future.</div>  
+  
 
-**kobetskiy/kobetskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I have 4 projects in portfolio  
+  
 
-Here are some ideas to get you started:
+- 👀 Look at my [Instagram](https://www.instagram.com/kobetskiy.dev)  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Ready to start working now  
+  
+
+- 🔍 Looking for developers for common projects  
+  
+
+<br/>  
