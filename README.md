@@ -1,4 +1,4 @@
-## <div align="center">Hello, I'm Artem 👋
+## <div align="left">Hello, I'm Artem 👋
 
 I'm a Flutter developer with 1+ years of experience! I started programming in 2020 and since then I couldn’t decide for a long time what I wanted to do.  Now I have definitely decided that mobile development is what I want to work with in the future.</div>  
   
@@ -28,6 +28,9 @@ I'm a Flutter developer with 1+ years of experience! I started programming in 20
     <a href="mailto:kobetskiy22@gmail.com" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Android_Email_8.1_Icon.png/640px-Android_Email_8.1_Icon.png" width="40" height="40" alt="telegram group" />
     </a>
-  </div>
+</div>
 
 <br/> 
+
+## My skill set
+### Technologies
