@@ -65,7 +65,12 @@ I'm a Flutter developer with 1+ years of experience! I started programming in 20
 
 ## Statistics
 <table>
+  <tr>
+    <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kobetskiy&theme=radical"/>
+    </td>
+    <td>
       <img height="195px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kobetskiy&layout=compact&theme=radical" />
-
+    </td>
+  </tr>
 </table>
