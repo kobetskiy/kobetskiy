@@ -25,7 +25,7 @@ I'm a Flutter developer with 1+ years of experience! I started programming in 20
     <a href="https://www.instagram.com/kobetskiy.dev" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://www.mailto:kobetskiy22@gmail.com" target="_blank">
+    <a href="mailto:kobetskiy22@gmail.com" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Android_Email_8.1_Icon.png/640px-Android_Email_8.1_Icon.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
