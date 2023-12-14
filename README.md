@@ -1,4 +1,3 @@
-## Intro  
 ## <div align="center">Hello, I'm Artem 👋
 
 I'm a Flutter developer with 1+ years of experience! I started programming in 2020 and since then I couldn’t decide for a long time what I wanted to do.  Now I have definitely decided that mobile development is what I want to work with in the future.</div>  
