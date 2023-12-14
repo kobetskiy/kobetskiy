@@ -18,8 +18,13 @@ I'm a Flutter developer with 1+ years of experience! I started programming in 20
 <br/>  
 
 ## Contact me 
-<div align="left">  
-<a href="https://t.me/kobetskiy" target="_blank"><img style="margin: 10px" src="https://icons8.com/icon/63306/telegram-app" alt="Telegram" height="50" /></a>  
-</div>  
+<div id="badges">
+    <a href="https://t.me/kobetskiy" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://www.instagram.com/kobetskiy.dev" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
 
 <br/> 
