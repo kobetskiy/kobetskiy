@@ -64,6 +64,8 @@ I'm a Flutter developer with 1+ years of experience! I started programming in 20
 </div>
 
 ## Statistics
+<table>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kobetskiy&theme=radical"/>
+      <img height="195px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kobetskiy&layout=compact&theme=radical" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobetskiy&show_icons=true&theme=radical)
-<img height="195px" width="525px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kobetskiy&layout=compact&theme=radical" />
+</table>
