@@ -47,9 +47,6 @@ I'm a Flutter developer with 1+ years of experience! I started programming in 20
       <a href="https://bloclibrary.dev/#/" target="_blank">
       <img src="https://pub.dev/packages/flutter_bloc/versions/8.1.3/gen-res/gen/190x190/logo.webp" width="40" height="45" alt="telegram group" />
     </a>
-      <a href="https://git-scm.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/640px-Git_icon.svg.png" width="40" height="40" alt="telegram group" />
-    </a>
 </div>
 
 ### Instruments
