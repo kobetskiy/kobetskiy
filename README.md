@@ -59,15 +59,3 @@ I'm a Flutter developer with 1+ years of experience! I started programming in 20
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://git-fork.com/images/logo.png" title="Fork" alt="Fork" width="40" height="40"/>&nbsp;
 </div>
-
-## Statistics
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kobetskiy&theme=radical"/>
-    </td>
-    <td>
-      <img height="195px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kobetskiy&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
