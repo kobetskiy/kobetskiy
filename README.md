@@ -45,14 +45,13 @@ I'm a Flutter developer with 1+ years of experience! I started programming in 20
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" width="40" height="40" alt="telegram group" />
     </a>
       <a href="https://bloclibrary.dev/#/" target="_blank">
-      <img src="![image](https://github.com/kobetskiy/kobetskiy/assets/80154095/731a7baa-253f-4d77-af7e-138e75e17802)
-" width="40" height="45" alt="telegram group" />
+      <img src="https://pub.dev/packages/flutter_bloc/versions/8.1.4/gen-res/gen/190x190/logo.webp" width="40" height="45" alt="telegram group" />
     </a>
 </div>
 
 ### Instruments
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" title="Fork" alt="Fork" width="40" height="40"/>&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" title="Fork" alt="Fork" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/640px-Android_Studio_icon_%282023%29.svg.png" title="Fork" alt="Fork" width="40" height="40"/>&nbsp;
   <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" title="Fork" alt="Fork" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
