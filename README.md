@@ -45,7 +45,7 @@ I'm a Flutter developer with 1+ years of experience! I started programming in 20
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Touchicon-180.png" width="40" height="40" alt="telegram group" />
     </a>
       <a href="https://bloclibrary.dev/#/" target="_blank">
-      <img src="https://pub.dev/packages/flutter_bloc/versions/8.1.4/gen-res/gen/190x190/logo.webp" width="40" height="45" alt="telegram group" />
+      <img src="https://pub.dev/packages/flutter_bloc/versions/8.1.5/gen-res/gen/190x190/logo.webp" width="40" height="45" alt="telegram group" />
     </a>
 </div>
 
